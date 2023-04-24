@@ -1,0 +1,12 @@
+﻿  tut_06_01.cpp
+C:\Users\asw77\OneDrive\Desktop\CS-330\module06\tut_06_01.cpp(234,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asw77\OneDrive\Desktop\CS-330\module06\tut_06_01.cpp(342,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asw77\OneDrive\Desktop\CS-330\module06\tut_06_01.cpp(343,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asw77\OneDrive\Desktop\CS-330\module06\tut_06_01.cpp(347,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asw77\OneDrive\Desktop\CS-330\module06\tut_06_01.cpp(348,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\asw77\OneDrive\Desktop\CS-330\module06\tut_06_01.cpp(350,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asw77\OneDrive\Desktop\CS-330\module06\tut_06_01.cpp(351,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\asw77\OneDrive\Desktop\CS-330\module06\tut_06_01.cpp(361,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  tutorial_06_01.vcxproj -> C:\Users\asw77\OneDrive\Desktop\CS-330\Debug\tutorial_06_01.exe
+  C:\Users\asw77\OneDrive\Desktop\CS-330\bin\glew-2.2.0\Release\x64\glew32.dll
+  1 File(s) copied
